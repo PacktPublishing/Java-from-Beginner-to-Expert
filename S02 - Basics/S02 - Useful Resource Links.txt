@@ -1,0 +1,12 @@
+JDK:
+https://adoptium.net/temurin/releases/?os=windows
+
+Netbeans 25 - Windows
+https://www.apache.org/dyn/closer.lua/netbeans/netbeans-installers/25/Apache-NetBeans-25-bin-windows-x64.exe
+
+Netbeans 25 - Mac
+https://www.apache.org/dyn/closer.lua/netbeans/netbeans-installers/25/Apache-NetBeans-25.pkg
+
+Netbeans 25 - Linux
+https://www.apache.org/dyn/closer.lua/netbeans/netbeans-installers/25/apache-netbeans_25-1_all.deb
+

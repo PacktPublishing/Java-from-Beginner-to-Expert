@@ -1,0 +1,5 @@
+Source Code: How to link styles.css and make your HTML file look good?
+https://github.com/morfidon/Task-Manager/releases/tag/styles
+
+[EXERCISE] Limiting users to only one ROLE - ADMIN - hasRole():
+https://github.com/morfidon/Task-Manager/releases/tag/hasrole

@@ -1,0 +1,5 @@
+How to create a new Spring Boot project Community Edition:
+https://spring.io/guides/gs/intellij-idea
+
+How to setup in VSC:
+https://spring.io/guides/gs/guides-with-vscode
